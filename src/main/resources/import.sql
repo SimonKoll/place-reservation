@@ -1,0 +1,1 @@
+insert into COURTTYPEENTITY(ID, DESCRIPTION) VALUES (1, 'Tennis');
